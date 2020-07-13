@@ -21,4 +21,4 @@ Minha formação é Engenharia de Produção (Unisociesc) e cursando Pós Gradua
 
 * **Analisando dados do Airbnb - Barcelona :** https://bit.ly/2OmLUsg
 
-* **Análise de Laboratórios Acreditados para serviços de calibração no Brasil, utilizando Power BI:** https://bit.ly/3fqO3yO
+* **Relatório de Laboratórios Acreditados para serviços de calibração no Brasil, utilizando Power BI:** https://bit.ly/3fqO3yO
