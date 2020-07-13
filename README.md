@@ -5,4 +5,4 @@
 
 
 # Reginaldo Origuella Filho
-<sub>*Bolsista Business Intelligence* na Fundação CERTI</sub>
+<sub>*Pesquisador* na Fundação CERTI</sub>
