@@ -11,10 +11,14 @@ Atualmente trabalhando em um projeto onde realizo consultas no banco de dados SS
 
 Minha formação é Engenharia de Produção (Unisociesc) e cursando Pós Graduação em Engenharia e Ciência de Dados (Unisul).
 
+---
+
 **Background in:** Python, SQL, Estatística, Power BI.
 
 **Links:**
 [LinkedIn]https://bit.ly/3esoCeW
+
+---
 
 ## Projetos:
 
