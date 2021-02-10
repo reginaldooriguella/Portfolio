@@ -5,9 +5,9 @@
 
 
 # Reginaldo Origuella Filho
-<sub>*Pesquisador* na Fundação CERTI</sub>
+<sub>*Suporte & Operação* na Fundação CERTI</sub>
 
-Atualmente trabalhando em um projeto onde realizo consultas no banco de dados SSIS-SQL do sistema do laboratório, para selecionar informações sobre demanda, organização dos dados extraídos do sistema de gerenciamento (SQL) para criação de dashboards no Power BI e análises exploratórias univariadas (média, mediana e quartis) e multivariadas (correlações).
+Atualmente trabalhando com suporte e operações na empresa que é referência em IoT para a saúde no Brasil, que é a Sensorweb.
 
 Minha formação é Engenharia de Produção (Unisociesc) e cursando Pós Graduação em Engenharia e Ciência de Dados (Unisul).
 
