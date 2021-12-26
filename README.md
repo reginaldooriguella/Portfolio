@@ -9,7 +9,7 @@
 
 Atualmente trabalhando com suporte e operações na empresa que é referência em IoT para a saúde no Brasil, que é a Sensorweb.
 
-Minha formação é Engenharia de Produção (Unisociesc) e cursando Pós Graduação em Engenharia e Ciência de Dados (Unisul).
+Minha formação é Engenharia de Produção (Unisociesc) e Pós Graduação em Engenharia e Ciência de Dados (Unisul - 2021).
 
 ---
 
